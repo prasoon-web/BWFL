@@ -5,6 +5,10 @@
 	xmlns:a4j="http://richfaces.org/a4j"
 	xmlns:rich="http://richfaces.org/rich">
 	<f:view>
+
+
+
+
 		<h:form>
 			<div class="panel panel-default">
 				<div class="panel-body">
@@ -158,7 +162,7 @@
 									
 									<rich:column>
 										<f:facet name="header">
-											<h:outputText value="Actual Box"
+											<h:outputText value="Actual Box in boc"
 												styleClass="generalHeaderOutputTable" />
 										</f:facet>
 										<h:inputText value="#{list.actboxe}">

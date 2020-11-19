@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.jboss.ide.eclipse.as.core.server.runtime.runtimeTarget/JBoss 4.2 Runtime">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/activation.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/ant.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/cms-jackrabbit.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/commons-collections.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/commons-fileupload.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/commons-io.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/ehcache.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/FastInfoset.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/freemarker.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/jackrabbit-api-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/jackrabbit-core-1.4.5.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/jackrabbit-jcr-commons-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/jackrabbit-spi-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/jackrabbit-spi-commons-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/jackrabbit-text-extractors-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/jAPI.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/jasper-jdt.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/jaxb-api.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/jaxb-impl.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/jboss-aop-jdk50.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/jboss-aspect-library-jdk50.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/jboss-bean-deployer.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/jboss-cache-jdk50.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/jboss-container.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/jboss-dependency.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/jboss-faces.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/jboss-jaxb-intros.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/jboss-microcontainer.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/jboss-portlet-api-lib.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/jbossweb.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/jbossweb-extras.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/jbossweb-service.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/jbossws-core.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/jbpm-identity.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/jbpm-jpdl.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/jcaptcha.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/jcl104-over-slf4j-1.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/jcr-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/jettison.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/jgroups.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/jrockit-pluggable-instrumentor.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/jsf-api.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/jsf-impl.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/jstl.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/lucene.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/mail.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/mysql-connector-java-3.0.15-ga-bin.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/nekohtml.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/pluggable-instrumentor.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/policy.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/portal-api-lib.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/portal-common-lib.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/portal-common-portal-lib.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/portal-core-cms-lib.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/portal-core-identity-services-lib.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/portal-core-lib.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/portal-faces-loader-lib.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/portal-identity-lib.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/portal-identity-sso-lib.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/portal-jems-lib.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/portal-portlet-bridge-lib.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/portal-portlet-controller-lib.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/portal-portlet-federation-lib.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/portal-portlet-lib.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/portal-portlet-management-lib.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/portal-portlet-server-lib.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/portal-registration-lib.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/portals-bridges-common.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/portal-search-lib.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/portal-security-lib.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/portal-server-lib.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/portal-theme-lib.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/portal-web-lib.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/portal-workflow-lib.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/portlet-api.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/postgresql-9.4.1212.jre6.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/slf4j-api-1.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/slf4j-log4j12-1.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/stax-api.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/tagsoup.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/trove.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/wsdl4j.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/wstx.jar"/>
+	<classpathentry kind="lib" path="E:/External_Libraries_Online/xmlsec.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

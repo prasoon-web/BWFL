@@ -5,6 +5,10 @@
 	xmlns:a4j="http://richfaces.org/a4j"
 	xmlns:rich="http://richfaces.org/rich">
 	<f:view>
+
+
+
+
 		<h:form>
 			<div class="panel panel-default">
 				<div class="panel-body">
@@ -158,7 +162,7 @@
 									
 									<rich:column>
 										<f:facet name="header">
-											<h:outputText value="Actual Box"
+											<h:outputText value="Actual Box in boc"
 												styleClass="generalHeaderOutputTable" />
 										</f:facet>
 										<h:inputText value="#{list.actboxe}">
@@ -260,7 +264,7 @@
 									
 									<rich:column>
 										<f:facet name="header">
-											<h:outputLabel value="Size" />
+											<h:outputLabel value="Sizes" />
 										</f:facet>
 										<center>
 											<h:outputText value="#{list11.upsize }" />
@@ -278,7 +282,7 @@
 
 									<rich:column>
 										<f:facet name="header">
-											<h:outputLabel value="Update Date" />
+											<h:outputLabel value="Update Dates" />
 										</f:facet>
 										<center>
 											<h:outputText value="#{list11.update }" />
@@ -287,7 +291,7 @@
 
 									<rich:column>
 										<f:facet name="header">
-											<h:outputLabel value="Update Box" />
+											<h:outputLabel value="Update Boxes" />
 										</f:facet>
 										<center>
 											<h:outputText value="#{list11.upbox }" />
@@ -296,7 +300,7 @@
 
 									<rich:column>
 										<f:facet name="header">
-											<h:outputLabel value="Update Bottle" />
+											<h:outputLabel value="Update Bottlessss" />
 										</f:facet>
 										<center>
 											<h:outputText value="#{list11.upbottle }" />
@@ -325,6 +329,14 @@
 
 						
 						
+
+
+
+
+
+
+
+
 					</TABLE>
 					
 					
